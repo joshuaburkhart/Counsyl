@@ -41,8 +41,6 @@ public class Main {
 							}
 						}
 					}
-					System.out.println(tmp_answer.get("ol") + " ("
-							+ tmp_answer.get("ol").length() + ")");
 					if (tmp_answer.get("ol").length() == 0) {
 						int f1_l = tmp_answer.get("f1").length();
 						int f2_l = tmp_answer.get("f2").length();
